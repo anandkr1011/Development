@@ -1,0 +1,22 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "this is a live course",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anandkr1011/NAMASTE-REACT.git"
+  },
+  "author": "Anand kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anandkr1011/NAMASTE-REACT/issues"
+  },
+  "homepage": "https://github.com/anandkr1011/NAMASTE-REACT#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
