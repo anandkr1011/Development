@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "this is a live course",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
@@ -16,6 +18,9 @@
   },
   "homepage": "https://github.com/anandkr1011/NAMASTE-REACT#readme",
   "devDependencies": {
+    "@babel/core": "^7.21.3",
+    "@babel/parser": "^7.21.3",
+    "babel-plugin-transform-remove-console": "^6.9.4",
     "parcel": "^2.8.3",
     "process": "^0.11.10"
   },
